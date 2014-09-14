@@ -1,0 +1,23 @@
+# Module cftEngine
+
+The *cftEngine* is a module which is the heart of the fantomEngine. 
+
+# Import fantomEngine
+
+# Class cftEngine.ftEngine
+
+The class *ftEngine* is the one you need to create an instance from when you want to use fantomEngine inside your app.
+
+# Method ExitApp:Void()
+
+Insert a call to *ExitApp* to end your game. 
+
+# Method SetPaused:Void(flag:bool)
+
+Insert a call to *SetPaused* to pause your game. 
+	
+# Method CreateImage:ftObject(img:Image, x:Float, y:float)
+
+Insert .... 
+
+	

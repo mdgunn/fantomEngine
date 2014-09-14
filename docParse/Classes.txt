@@ -1,0 +1,4 @@
+'#INCLFILE#docInclude/navigation.txt
+'#OUTPUTNAME#classes.html
+'#INCLFILE#docInclude/classes.txt
+'#INCLFILE#docInclude/license.txt

@@ -1,0 +1,4 @@
+'#INCLFILE#docInclude/navigation.txt
+'#OUTPUTNAME#3rdpartytools.html
+'#INCLFILE#docInclude/3rdpartytools.txt
+'#INCLFILE#docInclude/license.txt

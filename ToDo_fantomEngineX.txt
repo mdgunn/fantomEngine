@@ -1,0 +1,63 @@
++++ Top features +++
+
+- Path finding
+- Localization
+- Box2D Physics
+- Tweening
+- Timer
+- Local highscore system
+- Bitmap fonts
+- Tilemaps    ***ENHANCED***    (Isometric maps, Hex maps)
+- Buildin collision detection    ***ENHANCED***    (Pixelperfect collision)
+- Resource managment    ***ENHANCED***    (Encryption)
+
+- Virtual game pad    ***NEW***
+- Particles    ***NEW***
+- Multiple views    ***NEW***
+- Skinable GUI    ***NEW***
+- Web fonts    ***NEW***
+- TTF Font conversion    ***NEW***
+- Pixelperfect collision    ***NEW***
+- Highlevel Network communication    ***NEW***
+- Music tracker support   ***NEW***
+- Facebook, Twitter, Google+    ***NEW***
+- Ads    ***NEW***
+- Gamecenter, Google Play Services    ***NEW***
+- Mobile HTML5 support including sound    ***NEW***
+- Loading screen    ***NEW***
+- GFX and SFX library    ***NEW***
+- Global highscore system    ***NEW***
+- Save/Load game states    ***NEW***
+- Scripting    ***NEW***
+
++++ Tools +++
+
+- animated image strip editor
+- particle editor
+- physics editor
+- texture packer
+- Spine/Spriter like animation tool
+- GUI editor
+- map editor
+- bitmap font editor
+- localization editor
+- Music tracker
+- Sound editor
+
++++ Game templates +++
+
+- Rogue/Dungeon crawler
+- Flappy Bird
+- Match 3
+- Platformer
+- Endless Runner
+- Quiz/Questionaire
+- Point and click adventure
+- Space shooter
+- Dual stick topdown shooter
+- RTS
+
+
+
+
+

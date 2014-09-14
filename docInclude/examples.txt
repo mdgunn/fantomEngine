@@ -1,0 +1,110 @@
+<h2>Example scripts</h2>
+The [b]fantomEngine[/b] module ships with some example scripts that show you the usage of a certain feature. They are located inside the [i]examples[/i] folder located in your [b]fantomEngine[/b] module installation.
+
+<b>Base script</b>
+To see a skeleton script for the fantomEngine, have a look at the [a ../examples/BaseScript/BaseScript.monkey]BaseScript.monkey[/a] script. 
+
+<b>Set the blend mode</b>
+Sometimes you need to see the blendmode of an object. For this you can study the [a ../examples/Objects/Appearance/BlendMode/BlendMode.monkey]BlendMode.monkey[/a] script.
+
+<b>Extend an object</b>
+When you need to extend an object, have a look at the [a ../examples/Objects/Creation/CustomObject/CustomObject.monkey]CustomObject.monkey[/a] script. 
+
+<b>Copy an object</b>
+When you need to copy an object, have a look at the [a ../examples/Objects/Creation/CopyObject/CopyObject.monkey]CopyObject.monkey[/a] script. 
+
+<b>Drawing Primitives</b>
+fantomEngine supports different drawing primitves and the [a ../examples/Objects/Creation/CreatePrimitives/CreatePrimitives.monkey]CreatePrimitives.monkey[/a] script by Douglas Williams tell you how. 
+
+<b>Multiline text</b>
+To display multiline text, have a look at the [a ../examples/Text/MultilineText/MultilineText.monkey]MultilineText.monkey[/a] script.
+
+<b>FontMachine</b>
+If you want to use FontMachine fonts, you don't need to do anything special: [a ../examples/Text/FontMachine/FontMachine.monkey]FontMachine.monkey[/a].
+
+<b>Object movement</b>
+If you want to find out how to move objects and handle them in the OnObjectUpdate event, have a look at the [a ../examples/Objects/Behaviour/ObjectMovement/ObjectMovement.monkey]ObjectMovement.monkey[/a] script. 
+
+<b>Transitions</b>
+If you want to use transitions with tweeing, then have a look at the [a ../examples/Transitions/ObjectTransition/ObjectTransition.monkey]ObjectTransition.monkey[/a] script. 
+
+<b>Parent and childs</b>
+If you need a parent child relationship of your objects, have a look at the [a ../examples/Objects/Hierachy/ParentChild/ParentChild.monkey]ParentChild.monkey[/a] script. 
+
+<b>Load images</b>
+When you need to load images, it is good to have a look at this example: [a ../examples/Objects/Creation/LoadImage/LoadImage.monkey]LoadImage.monkey[/a]. 
+
+<b>Remove Objects</b>
+If you need to remove objects, have a look at the [a ../examples/Objects/Creation/RemoveObject/RemoveObject.monkey]RemoveObject.monkey[/a] script. 
+
+<b>Sort Objects</b>
+If you need to sort objects in layers, have a look at the [a ../examples/Objects/Hierachy/SortObjects/SortObjects.monkey]SortObjects.monkey[/a] script. 
+
+<b>Storing user defined data</b>
+Sometime you need to store extra information inside an ftObject. For this, have a look at the [a ../examples/Objects/DataStorage/DataStorage.monkey]DataStorage.monkey[/a] script. 
+
+<b>Swipe/Gesture detection</b>
+To find out how to use the swipe gesture detection, check out the [a ../examples/Input/SwipeDetection/SwipeDetection.monkey]SwipeDetection.monkey[/a] script.
+
+<b>Texture atlas / Sprite sheets</b>
+Sprite sheets are a great way to preserve video memory and also speed up the render process. To use texture atlas created by the tool [a http://www.codeandweb.com/texturepacker]TexturePacker[/a], check out the [a ../examples/SpriteSheets/TexturePacker/TexturePacker.monkey]TexturePacker.monkey[/a] script.
+
+<b>Tile maps</b>
+For big tile maps, created by the tool Tiled, have a look at the [a ../examples/TileMaps/Tiled/Tiled.monkey]Tiled.monkey[/a] script. It even handles map objects now.
+
+If you need to build a map dynamically, have a look at this script: [a ../examples/TileMaps/DynamicMap/DynamicMap.monkey]DynamicMap.monkey[/a].
+
+To see how you could do collision checks against a Tiled platformer level, have a look at this script: [a ../examples/TileMaps/Platformer/Platformer.monkey]Platformer.monkey[/a].
+
+<b>Paths and waypoints</b>
+To use paths/waypoints and how to move an object along a path, have a look at the [a ../examples/Waypoints/Waypoints.monkey]Waypoints.monkey[/a] script.
+
+<b>A* path finding</b>
+If you need to utilize A* path finding in your game, then the [a ../examples/Pathfinding/Pathfinding.monkey]Pathfinding.monkey[/a] script is the place to look at.
+
+<b>Box2D physics</b>
+There are several examples on how to integrate Box2D physics with fantomEngine. Here is a short list...
+[list][*][a ../examples/Physics/Box2DIntegration/Box2DIntegration.monkey]Box2DIntegration.monkey[/a]
+[*][a ../examples/Physics/JuggleSoccerBall/JuggleSoccerBall.monkey]JuggleSoccerBall.monkey[/a]
+[*][a ../examples/Physics/MouseJoint/MouseJoint.monkey]MouseJoint.monkey[/a]
+[*][a ../examples/Physics/Raycasting/Raycasting.monkey]Raycasting.monkey[/a]
+[*][a ../examples/Physics/RevoluteJoint/RevoluteJoint.monkey]RevoluteJoint.monkey[/a][/list]
+
+<b>Localization</b>
+If you need a simple way to display text in different languages then have a look at this script: [a ../examples/Localization/Localization.monkey]Localization.monkey[/a]. 
+
+<b>Keymapping</b>
+Sometimes you need to support different input schemes for your games. The [a ../examples/Input/KeyMapping/KeyMapping.monkey]KeyMapping.monkey[/a] shows you how you can handle this. 
+
+<b>Let an object flash</b>
+If you need to draw attention to an object, let it flash like in this script (extended by Douglas Williams)... [a ../examples/Objects/Appearance/FlashObject/FlashObject2.monkey]FlashObject2.monkey[/a] 
+
+<b>Layers</b>
+If scrolling layers is still a black book for you, then maybe this script from fellow fantomEngine user Douglas Williams will help you... [a ../examples/Layer/ScrollingLayers/ScrollingLayers.monkey]ScrollingLayers.monkey[/a]
+
+<b>Jump 'n' example</b>
+There are several ways to create a jump 'n' run game in fantomEngine. This script by Douglas Williams shows you one way: [a ../examples/Misc/RunJump/RunJump.monkey]RunJump.monkey[/a]. 
+
+<b>Multi class projects</b>
+If you wonder how to split your project into several classes, have a look here: [a ../examples/Misc/MultiClass/MultiClass.monkey]MultiClass.monkey[/a]. 
+
+<b>Scene management</b>
+Sometimes a game is divided into scenes/rooms. To have a go at this feature, look at this example: [a ../examples/Scenes/SceneCreation/SceneCreation.monkey]SceneCreation.monkey[/a]. 
+
+<b>Animate an object</b>
+Besides using an image strip like you do in Mojo, you can build animations in fantomEngine by adding several images to an object. Have a look at this example: [a ../examples/Objects/Creation/AnimObject/AnimObject.monkey]AnimObject.monkey[/a]. 
+
+<b>Update objects</b>
+To see how you can update your objects, have a look here: [a ../examples/Misc/UpdateObjects/UpdateObjects.monkey]UpdateObjects.monkey[/a]. 
+
+<b>Using Timer</b>
+Tiemr make your game tick. Look at this script: [a ../examples/Timers/Timers.monkey]Timers.monkey[/a]. 
+
+<b>Collision checks between objects</b>
+If you need to check for collisions between your objects, look at this example: [a ../examples/Objects/Collision/Collision.monkey]Collision.monkey[/a]. 
+
+<b>Using Spritesheets for animated objects</b>
+If your animated sprites are bundled inside sprite sheets, please look at the [a ../examples/SpriteSheets/SheetAnim/SheetAnim.monkey]SheetAnim.monkey[/a] script.
+
+<b>Displaying isometric TILED maps</b>
+To display and use an isometric map which was build in Tiled, study this example script: [a ../examples/TileMaps/Tiled/TiledIsometric.monkey]TiledIsometric.monkey[/a].

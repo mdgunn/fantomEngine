@@ -1,0 +1,13 @@
+# Module fantomEngine
+
+The *fantomEngine* is a module which brings analytics to monkey with the help of the <a href="http://www.fantomGL.com/" target="_blank">FantomGL</a>. 
+
+# Import fantomEngine.cftEngine
+
+# Import fantomEngine.cftObject
+
+
+>> Supported platforms
+
+Right now the *fantomEngine* module supports the *Android* and the *iOS* platform.
+
